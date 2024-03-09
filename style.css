@@ -1,3 +1,7 @@
+.container img{
+   width: 100%;
+}
+
 .list-items ul li a{
    color: #282c3f;
 }
